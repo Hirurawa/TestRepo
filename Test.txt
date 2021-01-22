@@ -4,10 +4,6 @@ line3
 line5
 line7
 line8
-<<<<<<< HEAD
-add new line
-=======
 line9
 add new line
 add another new line
->>>>>>> d542977c64d3179587c79db913d69efa32ce9235
